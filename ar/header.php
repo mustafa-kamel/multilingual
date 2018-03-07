@@ -1,5 +1,5 @@
 <?php
 
 return [
-	'hello' => 'Hello World From Header',
+	'hello' => 'Hello World From Arabic Header',
 ];

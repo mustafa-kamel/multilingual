@@ -1,5 +1,5 @@
 <?php
 
 return [
-	'hello' => 'Hello World From Blog/Post',
+	'hello' => 'Hello World From Arabic Blog/Post',
 ];

@@ -1,5 +1,5 @@
 <?php
 
 return [
-	'hello' => 'Hello World From Footer',
+	'hello' => 'Hello World From Arabic Footer',
 ];

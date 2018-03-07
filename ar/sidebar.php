@@ -1,5 +1,5 @@
 <?php
 
 return [
-	'hello' => 'Hello World From Sidebar',
+	'hello' => 'Hello World From Arabic Sidebar',
 ];
